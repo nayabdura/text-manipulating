@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nayabdura/text-manipulating.git/static/css/main.abd64e84.css",
-    "main.js": "/nayabdura/text-manipulating.git/static/js/main.ba6f5e3c.js",
+    "main.js": "/nayabdura/text-manipulating.git/static/js/main.5b6145f1.js",
     "static/js/787.ec0b7382.chunk.js": "/nayabdura/text-manipulating.git/static/js/787.ec0b7382.chunk.js",
     "index.html": "/nayabdura/text-manipulating.git/index.html",
     "main.abd64e84.css.map": "/nayabdura/text-manipulating.git/static/css/main.abd64e84.css.map",
-    "main.ba6f5e3c.js.map": "/nayabdura/text-manipulating.git/static/js/main.ba6f5e3c.js.map",
+    "main.5b6145f1.js.map": "/nayabdura/text-manipulating.git/static/js/main.5b6145f1.js.map",
     "787.ec0b7382.chunk.js.map": "/nayabdura/text-manipulating.git/static/js/787.ec0b7382.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.ba6f5e3c.js"
+    "static/js/main.5b6145f1.js"
   ]
 }
